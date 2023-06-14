@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gxfreee.com</title>
-    <link>/tags/</link>
+    <link>https://gxfreee.com/tags/</link>
     <description>Recent content in Tags on Gxfreee.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gxfreee.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Augmented Reality</title>
-      <link>/tags/augmented-reality/</link>
+      <link>https://gxfreee.com/tags/augmented-reality/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/augmented-reality/</guid>
+      <guid>https://gxfreee.com/tags/augmented-reality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Industry Transformation</title>
-      <link>/tags/industry-transformation/</link>
+      <link>https://gxfreee.com/tags/industry-transformation/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/industry-transformation/</guid>
+      <guid>https://gxfreee.com/tags/industry-transformation/</guid>
       <description></description>
     </item>
     
