@@ -19,6 +19,17 @@ with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site g
     </item>
     
     <item>
+      <title>Getting started</title>
+      <link>/docs/test_post/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>/docs/test_post/</guid>
+      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal
+configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar
+with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Customization</title>
       <link>/docs/customization/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
