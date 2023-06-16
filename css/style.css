@@ -34,6 +34,34 @@ section {
 	color: transparent;
 }
 
+/* Download Button */
+
+button.dbutton {
+    display: inline-block;
+    height: 34px;
+    background-color: #e22d30;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0 20px;
+}
+
+.btn {
+    border: 0;
+    border-radius: 4px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
 
 /* Google Search */
 
@@ -664,10 +692,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	max-width: 1030px;
 	margin: 0 0 20px;
 	margin-bottom: 0 0 1.25rem;
+	text-align: center;
 }
 
 .post__thumbnail img {
-	width: 100%;
+	/*width: 100%;*/
 }
 
 .content a,
